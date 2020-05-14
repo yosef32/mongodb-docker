@@ -6,3 +6,7 @@ docker and docke-compose
 
 run
 ./run.sh
+
+mongo run on 27017
+mongo express run on 8081
+
